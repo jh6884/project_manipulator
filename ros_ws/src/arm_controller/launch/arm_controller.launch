@@ -1,0 +1,5 @@
+<launch>
+	<node pkg="arm_controller" type="joint_state_publisher.py" name="joint_state_publisher" output="screen" />
+
+	<node pkg="arm_controller" type="joint_state_subscriber.py" name="joint_state_subscriber" output="screen" />
+</launch>
