@@ -16,6 +16,6 @@ ros_ws
 │  │   │    ├calibration.py / 카메라 캘리브레이션  
 │  │   │    ├fktest.py / 정기구학 모듈 테스트  
 │  │   │    ├iktest.py / 역기구학 모듈 테스트  
-│  │   │    ├main_cam.py / 3차원 좌표 기반 기구학 계산, 이동
+│  │   │    ├main_cam.py / 3차원 좌표 기반 기구학 계산, 이동  
 │  │   │    ├main.py / 로봇 pose 기반 물체 이동 코드 (시연)  
 │  │   │    └robot_base_calibration.py / 카메라와 로봇 위치 보정  
